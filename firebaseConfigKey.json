@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cgts-ayratech",
+  "private_key_id": "d203e4c71ecb2435eb3e6c17c20ee8cda06047cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwD1QxtM3kuV6M\ndLLxdTP7BcwcvyxG7jaidktRKRGrNOB6K9nobv75PnM06Ae4UjKv4ej2xvGTEgiI\nTo0jIu6FcdivkhmHtX/q2pzpDd5z1yN5IlgUQRwCEH/9ehk5okMUsr+y8WilMLRr\npV93SrNtF2/h0cFoLLlA1nnxj+dfbTxNHEIvwsH0CpT+svw5EPSJZQodrKOEwVmN\njbhXTgW2uOaPgozhViCq+2lmZz3nPFukyAkEshmt55dLiOjDrMkkwGgZJHyOjAHT\n87e41b3RiWsrFJzHDDuJh/3+kzFLYeh14GaPNWTU0/wk28qa7bPuN5wLw0sCLytA\nNdggov0FAgMBAAECggEAGCDJq5Q5QVbMJ9iYa3HiAU1elzP15/SehS5MDR/hPYLe\nHrAiyXFovRS7ai1AXZjaPHNr32INWlf21mNZgU64vI4JIaqWmBweHzv9lAzkByEd\nSe0UgBYaNgg32i+hBF6B7fS/Q9FEw5rEpxn/VtRkeZdkLGD4LgQvET0zchEEJvYR\nw2f3/kvxul7efq5sunO4Lgl/Nczm9qFtIwInVFyANd+NpQdEHQ1j3J3NHvFXaDtG\nv/B7/WceahQJjhtz6aHL1ZZhbqizmoBb79duPTUX6WNBeN78v9wDKFJaRDnTB6lD\noNjQHqcwiZhnzqN0kXh5U+eroQxjaYmqeG1faumNEQKBgQDWuwDLZm5ZqOnOBO66\nuzCXybuCQ6h1k0wxLM6iCPH7PI1inDdwhFEV1jO/skSP8fQguSrUW6ToBuOm8inU\nVg+Awe5AxkHJn4ZrQXoTj3PE6Fq3yjvENPONIiveLjZKav9yblc7LT8MJuzILqyS\nCnz8TnxrTJR16WPFI1kYiiDP6QKBgQDR5a+Rkl0HY3A4EwIjc/kdCX6KghhzrMhh\nA+sD0kpo5aliYr4oxHFe26FZGrgNz89HL01Xm7kocLfuhVKm43uUMXKRcH8SyJnO\nQumn5+bZnXWXfAaeUJptNTG5NwrgiPUZ1U0HbVOAza+Ga3A+ptetDYK9O2YO44xz\nHylIkLzOvQKBgQDJJkSIRVv6AZGDvHsl0VSj3AYa8OZNvb4SErc+csK7Zu3LAius\n60ZJ/m5blNNFRJI8VTkZ1P+Vm16GdTNaBYRgSUq2wwG9rgJtVtjUmf0I5+CTao6y\nLig4fVo6t2+EJtdEiriMZsY4y/3jSFXAOLL8Z0mF+ibYjdk4QvSjWEGEgQKBgD+V\ncbsKeI39bIhAEdzFjAhk0OWKhXe9NrJU6oOs14exUr+QJATbhXBz3gvNEUZ11le9\nF5Pbg5qhksZ5stEFhnEdDZTLXGNHS3h1QqzvjjoL/gxWsPaSekVs4NQ3vV7Jfl5G\nBGCkmLAjHvH8Z/NCvYEZ36oNbVxDSE+zd+EYn2mNAoGBAMO29KS7Vw8ydiwbfNJg\nbJsBWw+yatx/S9AJ+7NqHQFbPxw/AerdUuCaenV5iKdiXYw+Idh3nnOpzh+k/W7J\nAH2NT+fJ9Va8bVn9cuvXe1Aaqn5QiCwt906zU2tR7L0qD3NjghX9VHWg09WyQK+t\nn7YkCK/osAT37ogKKTtiQcCR\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hu0c7@cgts-ayratech.iam.gserviceaccount.com",
+  "client_id": "108783453956796471941",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hu0c7%40cgts-ayratech.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

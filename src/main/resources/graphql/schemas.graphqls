@@ -1,0 +1,53 @@
+schema {
+	query : Query
+	mutation : Mutation
+}
+
+type Query {
+	signInAdmin : AdminDetailsModel
+}
+
+type Mutation {	
+    signUpAdmin(fullname : String!, email : String!) : AdminDetailsModel
+}
+
+type AdminDetailsModel {
+    id : String
+    uid : String
+    fullname : String
+    email : String
+    accountStatus : AccountStatus
+    role : Role
+    activatedBy : String
+    activatedAt : String
+    lastLogin : String
+    createdAt : String
+}
+
+type CameraOwnerInformationModel {
+    id : ID
+    fullname : String
+    email : String
+    phone : String
+    aadhar : String
+
+}
+
+input CameraOwnerInformationModelInput {
+    id : ID
+    fullname : String
+    email : String
+    phone : String
+    aadhar : String
+}
+
+enum Role {
+	ADMIN
+	SUPERADMIN
+}
+
+enum AccountStatus {
+	ACTIVE
+	INACTIVE
+	SUSPENDED
+}
